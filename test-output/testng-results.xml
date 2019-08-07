@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="165783" started-at="2019-02-22T08:06:33Z" finished-at="2019-02-22T08:09:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="165783" started-at="2019-02-22T08:06:33Z" finished-at="2019-02-22T08:09:18Z">
+      <class name="package1.Test3">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:package1.Test3@59f99ea]" name="preCondition" is-config="true" duration-ms="94917" started-at="2019-02-22T08:07:39Z" finished-at="2019-02-22T08:09:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:package1.Test3@59f99ea]" name="test3" duration-ms="0" started-at="2019-02-22T08:09:14Z" finished-at="2019-02-22T08:09:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- package1.Test3 -->
+      <class name="package1.Test4">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:package1.Test4@27efef64]" name="preCondition" is-config="true" duration-ms="4800" started-at="2019-02-22T08:09:14Z" finished-at="2019-02-22T08:09:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:package1.Test4@27efef64]" name="test4" duration-ms="0" started-at="2019-02-22T08:09:18Z" finished-at="2019-02-22T08:09:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- package1.Test4 -->
+      <class name="package1.Test1">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:package1.Test1@5e5792a0]" name="preCondition" is-config="true" duration-ms="7733" started-at="2019-02-22T08:06:33Z" finished-at="2019-02-22T08:06:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:package1.Test1@5e5792a0]" name="test1" duration-ms="16" started-at="2019-02-22T08:06:40Z" finished-at="2019-02-22T08:06:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- package1.Test1 -->
+      <class name="package1.Test2">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:package1.Test2@26653222]" name="preCondition" is-config="true" duration-ms="4285" started-at="2019-02-22T08:06:40Z" finished-at="2019-02-22T08:06:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:package1.Test2@26653222]" name="test2" duration-ms="0" started-at="2019-02-22T08:06:45Z" finished-at="2019-02-22T08:06:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- package1.Test2 -->
+      <class name="package1.Test7">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:package1.Test7@3532ec19]" name="preCondition" is-config="true" duration-ms="5229" started-at="2019-02-22T08:06:45Z" finished-at="2019-02-22T08:06:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="test7()[pri:0, instance:package1.Test7@3532ec19]" name="test7" duration-ms="0" started-at="2019-02-22T08:06:50Z" finished-at="2019-02-22T08:06:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+      </class> <!-- package1.Test7 -->
+      <class name="package1.Test5">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:package1.Test5@68c4039c]" name="preCondition" is-config="true" duration-ms="13599" started-at="2019-02-22T08:06:50Z" finished-at="2019-02-22T08:07:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="test5()[pri:0, instance:package1.Test5@68c4039c]" name="test5" duration-ms="2" started-at="2019-02-22T08:07:04Z" finished-at="2019-02-22T08:07:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+      </class> <!-- package1.Test5 -->
+      <class name="package1.Test6">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:package1.Test6@ae45eb6]" name="preCondition" is-config="true" duration-ms="35093" started-at="2019-02-22T08:07:04Z" finished-at="2019-02-22T08:07:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="test6()[pri:0, instance:package1.Test6@ae45eb6]" name="test6" duration-ms="0" started-at="2019-02-22T08:07:39Z" finished-at="2019-02-22T08:07:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+      </class> <!-- package1.Test6 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
